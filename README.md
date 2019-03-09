@@ -48,6 +48,8 @@ Border
 Padding
 Content
 
+are the 4
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
 
 The cross axis
